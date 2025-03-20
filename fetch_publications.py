@@ -12,7 +12,7 @@ def xml_to_markdown(xml_content):
     root = ET.fromstring(xml_content)
     markdown_output = """---
 layout: page
-title: Publications
+title: PublicationsTESTTEST
 permalink: /publications/
 ---\n\n"""
 
