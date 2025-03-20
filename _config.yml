@@ -20,7 +20,7 @@
 
 title: Pierluigi Cassotti
 email: pierluigicassotti[at]gu.se
-description: "Pierluigi Cassotti is a researcher at the Department of Philosophy, Linguistics, and Theory of Science (FLoV) at the University of Gothenburg. His research focuses on computational modeling of lexical semantics, particularly in the area of distributional semantics. He specializes in the development and application of state-of-the-art computational models for the detection of lexical semantic change. He has contributed to the creation of widely used benchmarks and models that facilitate robust evaluation in the Lexical Semantic Change Detection area, which are now being adopted by the wider research community."
+description: "Pierluigi Cassotti is a researcher at the Department of Philosophy, Linguistics, and Theory of Science (FLoV) at the University of Gothenburg. His research focuses on computational modeling of lexical semantics, particularly in the area of distributional semantics."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: p_cassotti
