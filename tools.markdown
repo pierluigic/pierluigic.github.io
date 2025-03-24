@@ -17,7 +17,7 @@ Available here: [https://github.com/pierluigic/xl-lexeme](https://huggingface.co
 
 
 # Janus
-![janus](/janus-pic.png "picture")
+![janus](/janus_pic.png "picture")
 With Janus you can generate sentences in which a word appears with a meaning you choose and in the writing style of the historical period you prefer (1700-200).
 Described in Sense-specific Historical Word Usage Generation
 
