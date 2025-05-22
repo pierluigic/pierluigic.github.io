@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![alt text](picture.jpeg "picture"){: width="250" }
+![alt text](picture.jpeg "picture"){: width="200" }
 
 I am researcher at the Department of Philosophy, Linguistics, and Theory of Science (FLoV) at the University of Gothenburg. I am part of the RJ-funded 6-year research program [“Change is Key!”](https://www.changeiskey.org/), which develops cutting-edge computational methods to detect language change, with the aim of advancing the study of both contemporary and historical societies.
 
