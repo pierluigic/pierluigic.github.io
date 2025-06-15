@@ -19,12 +19,12 @@ permalink: /publications/
 - **Authors:** **Pierluigi Cassotti**, Pierpaolo Basile, Nina Tahmasebi
 - **Venue:** CLiC-it
 
-### [TRoTR: A Framework for Evaluating the Re-contextualization of Text Reuse.](https://aclanthology.org/2024.emnlp-main.774)
+### [TRoTR: A Framework for Evaluating the Re-contextualization of Text Reuse.](https://doi.org/10.18653/v1/2024.emnlp-main.774)
 - **Year:** 2024
 - **Authors:** Francesco Periti, **Pierluigi Cassotti**, Stefano Montanelli, Nina Tahmasebi, Dominik Schlechtweg
 - **Venue:** EMNLP
 
-### [More DWUGs: Extending and Evaluating Word Usage Graph Datasets in Multiple Languages.](https://aclanthology.org/2024.emnlp-main.796)
+### [More DWUGs: Extending and Evaluating Word Usage Graph Datasets in Multiple Languages.](https://doi.org/10.18653/v1/2024.emnlp-main.796)
 - **Year:** 2024
 - **Authors:** Dominik Schlechtweg, **Pierluigi Cassotti**, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi
 - **Venue:** EMNLP
