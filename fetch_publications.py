@@ -18,6 +18,9 @@ permalink: /publications/
 
     for hit in root.findall('.//hit'):
         try:
+            tp = hit.find('.//type').text
+            if tp == 'Data and Artifacts':
+                pass
             venue = hit.find('.//venue').text
     
             # Exclude arXiv (CoRR) publications
@@ -26,7 +29,6 @@ permalink: /publications/
     
             title = hit.find('.//title').text
             year = hit.find('.//year').text
-            tp = hit.find('.//type').text
             authors = hit.findall('.//author')
             authors_list = ', '.join([f"**{author.text}**" if author.text == "Pierluigi Cassotti" else author.text for author in authors])
             url = hit.find('.//ee').text
