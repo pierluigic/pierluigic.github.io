@@ -29,16 +29,6 @@ permalink: /publications/
 - **Authors:** Dominik Schlechtweg, **Pierluigi Cassotti**, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi
 - **Conference/Workshop:** EMNLP
 
-### [DWUG IT: Diachronic Word Usage Graphs for Italian.](https://doi.org/10.5281/zenodo.13941618)
-- **Year:** 2024
-- **Authors:** **Pierluigi Cassotti**, Pierpaolo Basile, Nina Tahmasebi
-
-
-### [DWUG IT: Diachronic Word Usage Graphs for Italian.](https://doi.org/10.5281/zenodo.13941603)
-- **Year:** 2024
-- **Authors:** **Pierluigi Cassotti**, Pierpaolo Basile, Nina Tahmasebi
-
-
 ### [XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE.](https://doi.org/10.18653/v1/2023.acl-short.135)
 - **Year:** 2023
 - **Authors:** **Pierluigi Cassotti**, Lucia Siciliani, Marco de Gemmis, Giovanni Semeraro, Pierpaolo Basile
@@ -88,11 +78,6 @@ permalink: /publications/
 - **Year:** 2021
 - **Authors:** **Pierluigi Cassotti**, Lucia Siciliani, Pierpaolo Basile, Marco de Gemmis, Pasquale Lops
 - **Conference/Workshop:** IIR
-
-### [Relations from Italian Wikipedia using Unsupervised Information Extraction.](https://doi.org/10.5281/zenodo.5498034)
-- **Year:** 2021
-- **Authors:** Pierpaolo Basile, Lucia Siciliani, **Pierluigi Cassotti**, Marco de Gemmis, Pasquale Lops
-
 
 ### [A Comparative Study of Approaches for the Diachronic Analysis of the Italian Language.](https://ceur-ws.org/Vol-2735/paper40.pdf)
 - **Year:** 2020
