@@ -20,7 +20,7 @@ permalink: /publications/
         try:
             tp = hit.find('.//type').text
             if tp == 'Data and Artifacts':
-                pass
+                continue
             venue = hit.find('.//venue').text
     
             # Exclude arXiv (CoRR) publications
