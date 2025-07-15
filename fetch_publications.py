@@ -17,22 +17,31 @@ permalink: /publications/
 ---\n\n"""
 
     for hit in root.findall('.//hit'):
-        venue = hit.find('.//venue').text
-
-        # Exclude arXiv (CoRR) publications
-        if venue.lower() == 'corr':
-            continue
-
-        title = hit.find('.//title').text
-        year = hit.find('.//year').text
-        authors = hit.findall('.//author')
-        authors_list = ', '.join([f"**{author.text}**" if author.text == "Pierluigi Cassotti" else author.text for author in authors])
-        url = hit.find('.//ee').text
-
-        markdown_output += f"### [{title}]({url})\n"
-        markdown_output += f"- **Year:** {year}\n"
-        markdown_output += f"- **Authors:** {authors_list}\n"
-        markdown_output += f"- **Venue:** {venue}\n\n"
+        try:
+            venue = hit.find('.//venue').text
+    
+            # Exclude arXiv (CoRR) publications
+            if venue.lower() == 'corr':
+                continue
+    
+            title = hit.find('.//title').text
+            year = hit.find('.//year').text
+            tp = hit.find('.//type').text
+            authors = hit.findall('.//author')
+            authors_list = ', '.join([f"**{author.text}**" if author.text == "Pierluigi Cassotti" else author.text for author in authors])
+            url = hit.find('.//ee').text
+    
+            markdown_output += f"### [{title}]({url})\n"
+            markdown_output += f"- **Year:** {year}\n"
+            markdown_output += f"- **Authors:** {authors_list}\n"
+            if tp == "Conference and Workshop Papers":
+                markdown_output += f"- **Conference/Workshop:** {venue}\n\n"
+            elif tp == "Journal Articles":
+                markdown_output += f"- **Journal:** {venue}\n\n"
+            else:
+                markdown_output += f"\n\n"
+        except:
+            pass
 
     return markdown_output
 
