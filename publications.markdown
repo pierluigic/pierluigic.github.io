@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+### [Sense-specific Historical Word Usage Generation.](https://doi.org/10.1162/tacl_a_00761)
+- **Year:** 2025
+- **Authors:** **Pierluigi Cassotti**, Nina Tahmasebi
+- **Journal:** Trans. Assoc. Comput. Linguistics
+
 ### [Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types.](https://doi.org/10.18653/v1/2024.acl-long.249)
 - **Year:** 2024
 - **Authors:** **Pierluigi Cassotti**, Stefano De Pascale, Nina Tahmasebi
