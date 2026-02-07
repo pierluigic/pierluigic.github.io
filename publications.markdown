@@ -9,6 +9,16 @@ permalink: /publications/
 - **Authors:** **Pierluigi Cassotti**, Nina Tahmasebi
 - **Journal:** Trans. Assoc. Comput. Linguistics
 
+### [A Hypothesis-Driven Framework for Detecting Lexical Semantic Change.](https://ceur-ws.org/Vol-4112/18_main_long.pdf)
+- **Year:** 2025
+- **Authors:** **Pierluigi Cassotti**, Nina Tahmasebi
+- **Conference/Workshop:** CLiC-it
+
+### [Towards Language-Agnostic STIPA: Universal Phonetic Transcription to Support Language Documentation at Scale.](https://doi.org/10.18653/v1/2025.emnlp-main.1600)
+- **Year:** 2025
+- **Authors:** Jacob Lee Suchardt, Hana El-Shazli, **Pierluigi Cassotti**
+- **Conference/Workshop:** EMNLP
+
 ### [Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types.](https://doi.org/10.18653/v1/2024.acl-long.249)
 - **Year:** 2024
 - **Authors:** **Pierluigi Cassotti**, Stefano De Pascale, Nina Tahmasebi
