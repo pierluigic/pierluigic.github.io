@@ -26,6 +26,29 @@ Available here: [https://huggingface.co/ChangeIsKey/llama3-janus](https://huggin
 
 ## Datasets
 
+# WIKIPA
+**WikIPA** is a multilingual benchmark dataset designed for **speech-to-IPA (STIPA) transcription**, linking spoken audio with International Phonetic Alphabet (IPA) transcriptions.
+
+The dataset integrates two large-scale community-driven resources:
+
+* **WikiPron** — human-curated IPA pronunciations extracted from Wiktionary
+* **Lingua Libre** — crowdsourced recordings of spoken lexical items
+
+By connecting these two resources, WikIPA provides a dataset that links **speech audio to phonetic representations**, enabling evaluation of models that transcribe speech directly into IPA.
+
+The dataset supports both:
+
+* **Broad (phonemic) IPA transcriptions**
+* **Narrow (phonetic) IPA transcriptions**
+
+WikIPA is introduced in the paper:
+
+> **WikIPA: Integrating WikiPron and Lingua Libre for Multilingual IPA Transcription** 
+
+The dataset contains **289,694 audio–IPA pairs across 78 languages**, making it one of the largest multilingual resources for speech-to-IPA evaluation. 
+
+Available here: [https://huggingface.co/datasets/pierluigic/WikIPA](https://huggingface.co/datasets/pierluigic/WikIPA)
+
 # GWSD
 The GWSD Dataset (Graded Word Sense Disambiguation Dataset) is a sense-annotated dataset designed for studying diachronic word usage and semantic change. It contains:
 
