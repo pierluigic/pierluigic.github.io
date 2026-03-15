@@ -41,11 +41,7 @@ The dataset supports both:
 * **Broad (phonemic) IPA transcriptions**
 * **Narrow (phonetic) IPA transcriptions**
 
-WikIPA is introduced in the paper:
-
-> **WikIPA: Integrating WikiPron and Lingua Libre for Multilingual IPA Transcription** 
-
-The dataset contains **289,694 audio–IPA pairs across 78 languages**, making it one of the largest multilingual resources for speech-to-IPA evaluation. 
+The dataset contains **289,694 audio–IPA pairs across 78 languages**.
 
 Available here: [https://huggingface.co/datasets/pierluigic/WikIPA](https://huggingface.co/datasets/pierluigic/WikIPA)
 
