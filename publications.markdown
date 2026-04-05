@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+### [Elections go bananas: A First Large-scale Multilingual Study of Pluralia Tantum using LLMs.](https://aclanthology.org/2026.eacl-long.308/)
+- **Year:** 2026
+- **Authors:** Elena Spaziani, Kamyar Zeinalipour, **Pierluigi Cassotti**, Nina Tahmasebi
+- **Conference/Workshop:** EACL
+
 ### [Sense-specific Historical Word Usage Generation.](https://doi.org/10.1162/tacl_a_00761)
 - **Year:** 2025
 - **Authors:** **Pierluigi Cassotti**, Nina Tahmasebi
