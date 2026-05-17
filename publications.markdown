@@ -66,12 +66,12 @@ permalink: /publications/
 
 ### [Using Graph Databases for Historical Language Data: Challenges and Opportunities.](https://ceur-ws.org/Vol-3365/short7.pdf)
 - **Year:** 2023
-- **Authors:** Barbara McGillivray, **Pierluigi Cassotti**, Pierpaolo Basile, Davide Di Pierro, Stefano Ferilli
+- **Authors:** Barbara McGillivray, **Pierluigi Cassotti**, Pierpaolo Basile, Davide Di Pierro 0001, Stefano Ferilli
 - **Conference/Workshop:** IRCDL
 
 ### [Graph Databases for Diachronic Language Data Modelling.](https://aclanthology.org/2023.ldk-1.8)
 - **Year:** 2023
-- **Authors:** Barbara McGillivray, **Pierluigi Cassotti**, Davide Di Pierro, Paola Marongiu, Anas Fahad Khan, Stefano Ferilli, Pierpaolo Basile
+- **Authors:** Barbara McGillivray, **Pierluigi Cassotti**, Davide Di Pierro 0001, Paola Marongiu, Anas Fahad Khan, Stefano Ferilli, Pierpaolo Basile
 - **Conference/Workshop:** LDK
 
 ### [A New Time-sensitive Model of Linguistic Knowledge for Graph Databases.](https://ceur-ws.org/Vol-3286/08_paper.pdf)
