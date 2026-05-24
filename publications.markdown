@@ -9,6 +9,11 @@ permalink: /publications/
 - **Authors:** Elena Spaziani, Kamyar Zeinalipour, **Pierluigi Cassotti**, Nina Tahmasebi
 - **Conference/Workshop:** EACL
 
+### [The Proceedings for the 6th International Workshop on Computational Approaches to Language Change, LChange@EACL 2026, Rabat, Morocco, March 28, 2026](https://aclanthology.org/volumes/2026.lchange-1/)
+- **Year:** 2026
+- **Authors:** Nina Tahmasebi, **Pierluigi Cassotti**, Syrielle Montariol, Andrey Kutuzov, Netta Huebscher, Elena Spaziani, Naomi Baes
+
+
 ### [Sense-specific Historical Word Usage Generation.](https://doi.org/10.1162/tacl_a_00761)
 - **Year:** 2025
 - **Authors:** **Pierluigi Cassotti**, Nina Tahmasebi
@@ -49,6 +54,11 @@ permalink: /publications/
 - **Authors:** Dominik Schlechtweg, **Pierluigi Cassotti**, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi
 - **Conference/Workshop:** EMNLP
 
+### [Proceedings of the 5th Workshop on Computational Approaches to Historical Language Change, LChange@ACL 2024, Bangkok, Thailand, August 15, 2024](https://aclanthology.org/volumes/2024.lchange-1/)
+- **Year:** 2024
+- **Authors:** Nina Tahmasebi, Syrielle Montariol, Andrey Kutuzov, David Alfter, Francesco Periti, **Pierluigi Cassotti**, Netta Huebscher
+
+
 ### [XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE.](https://doi.org/10.18653/v1/2023.acl-short.135)
 - **Year:** 2023
 - **Authors:** **Pierluigi Cassotti**, Lucia Siciliani, Marco de Gemmis, Giovanni Semeraro, Pierpaolo Basile
@@ -73,6 +83,11 @@ permalink: /publications/
 - **Year:** 2023
 - **Authors:** Barbara McGillivray, **Pierluigi Cassotti**, Davide Di Pierro 0001, Paola Marongiu, Anas Fahad Khan, Stefano Ferilli, Pierpaolo Basile
 - **Conference/Workshop:** LDK
+
+### [Proceedings of the 4th Workshop on Computational Approaches to Historical Language Change, LChange@EMNLP 2023, Singapore, December 6, 2023](https://aclanthology.org/volumes/2023.lchange-1/)
+- **Year:** 2023
+- **Authors:** Nina Tahmasebi, Syrielle Montariol, Haim Dubossarsky, Andrey Kutuzov, Simon Hengchen, David Alfter, Francesco Periti, **Pierluigi Cassotti**
+
 
 ### [A New Time-sensitive Model of Linguistic Knowledge for Graph Databases.](https://ceur-ws.org/Vol-3286/08_paper.pdf)
 - **Year:** 2022
