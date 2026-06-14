@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### [Elections go bananas: A First Large-scale Multilingual Study of Pluralia Tantum using LLMs.](https://aclanthology.org/2026.eacl-long.308/)
+### [Elections go bananas: A First Large-scale Multilingual Study of Pluralia Tantum using LLMs.](https://doi.org/10.18653/v1/2026.eacl-long.308)
 - **Year:** 2026
 - **Authors:** Elena Spaziani, Kamyar Zeinalipour, **Pierluigi Cassotti**, Nina Tahmasebi
 - **Conference/Workshop:** EACL
