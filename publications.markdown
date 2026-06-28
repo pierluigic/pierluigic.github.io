@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+### [SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations.](https://aclanthology.org/2026.acl-long.20/)
+- **Year:** 2026
+- **Authors:** **Pierluigi Cassotti**, Naomi Baes, Stefano De Pascale, Jáder Martins Camboim de Sá, Francesco Periti, Nick Haslam, Dirk Geeraerts, Nina Tahmasebi
+- **Conference/Workshop:** ACL
+
 ### [Elections go bananas: A First Large-scale Multilingual Study of Pluralia Tantum using LLMs.](https://doi.org/10.18653/v1/2026.eacl-long.308)
 - **Year:** 2026
 - **Authors:** Elena Spaziani, Kamyar Zeinalipour, **Pierluigi Cassotti**, Nina Tahmasebi
