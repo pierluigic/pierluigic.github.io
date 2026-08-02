@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### [SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations.](https://aclanthology.org/2026.acl-long.20/)
+### [SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations.](https://doi.org/10.18653/v1/2026.acl-long.20)
 - **Year:** 2026
 - **Authors:** **Pierluigi Cassotti**, Naomi Baes, Stefano De Pascale, Jáder Martins Camboim de Sá, Francesco Periti, Nick Haslam, Dirk Geeraerts, Nina Tahmasebi
 - **Conference/Workshop:** ACL
