@@ -14,6 +14,11 @@ permalink: /publications/
 - **Authors:** Elena Spaziani, Kamyar Zeinalipour, **Pierluigi Cassotti**, Nina Tahmasebi
 - **Conference/Workshop:** EACL
 
+### [WikIPA: Integrating WikiPron and Lingua Libre for Multilingual IPA Transcription.](https://doi.org/10.63317/2am4iw3bfhjb)
+- **Year:** 2026
+- **Authors:** **Pierluigi Cassotti**, Jacob Lee Suchardt, Domenico De Cristofaro
+- **Conference/Workshop:** LREC
+
 ### [The Proceedings for the 6th International Workshop on Computational Approaches to Language Change, LChange@EACL 2026, Rabat, Morocco, March 28, 2026](https://aclanthology.org/volumes/2026.lchange-1/)
 - **Year:** 2026
 - **Authors:** Nina Tahmasebi, **Pierluigi Cassotti**, Syrielle Montariol, Andrey Kutuzov, Netta Huebscher, Elena Spaziani, Naomi Baes
