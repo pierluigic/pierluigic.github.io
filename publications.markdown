@@ -4,27 +4,27 @@ title: Publications
 permalink: /publications/
 ---
 
-### [SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations.](https://doi.org/10.18653/v1/2026.acl-long.20)
-- **Year:** 2026
-- **Authors:** **Pierluigi Cassotti**, Naomi Baes, Stefano De Pascale, Jáder Martins Camboim de Sá, Francesco Periti, Nick Haslam, Dirk Geeraerts, Nina Tahmasebi
-- **Conference/Workshop:** ACL
-
-### [Elections go bananas: A First Large-scale Multilingual Study of Pluralia Tantum using LLMs.](https://doi.org/10.18653/v1/2026.eacl-long.308)
-- **Year:** 2026
-- **Authors:** Elena Spaziani, Kamyar Zeinalipour, **Pierluigi Cassotti**, Nina Tahmasebi
-- **Conference/Workshop:** EACL
-
-### [WikIPA: Integrating WikiPron and Lingua Libre for Multilingual IPA Transcription.](https://doi.org/10.63317/2am4iw3bfhjb)
+### [WikIPA: Integrating WikiPron and Lingua Libre for Multilingual IPA Transcription.](https://doi.org/10.63317/2AM4IW3BFHJB)
 - **Year:** 2026
 - **Authors:** **Pierluigi Cassotti**, Jacob Lee Suchardt, Domenico De Cristofaro
 - **Conference/Workshop:** LREC
 
-### [The Proceedings for the 6th International Workshop on Computational Approaches to Language Change, LChange@EACL 2026, Rabat, Morocco, March 28, 2026](https://aclanthology.org/volumes/2026.lchange-1/)
+### [SenseRel: A Sense-Level Benchmark for Denotational and Connotational Meaning Relations.](https://doi.org/10.18653/V1/2026.ACL-LONG.20)
 - **Year:** 2026
-- **Authors:** Nina Tahmasebi, **Pierluigi Cassotti**, Syrielle Montariol, Andrey Kutuzov, Netta Huebscher, Elena Spaziani, Naomi Baes
+- **Authors:** **Pierluigi Cassotti**, Naomi Baes, Stefano De Pascale, Jáder Martins Camboim de Sá, Francesco Periti, Nick Haslam, Dirk Geeraerts, Nina Tahmasebi
+- **Conference/Workshop:** ACL (1)
 
+### [Elections go bananas: A First Large-scale Multilingual Study of Pluralia Tantum using LLMs.](https://doi.org/10.18653/V1/2026.EACL-LONG.308)
+- **Year:** 2026
+- **Authors:** Elena Spaziani, Kamyar Zeinalipour, **Pierluigi Cassotti**, Nina Tahmasebi
+- **Conference/Workshop:** EACL (Volume 1: Long Papers)
 
-### [Sense-specific Historical Word Usage Generation.](https://doi.org/10.1162/tacl_a_00761)
+### [Towards Language-Agnostic STIPA: Universal Phonetic Transcription to Support Language Documentation at Scale.](https://doi.org/10.18653/V1/2025.EMNLP-MAIN.1600)
+- **Year:** 2025
+- **Authors:** Jacob Lee Suchardt, Hana El-Shazli, **Pierluigi Cassotti**
+- **Conference/Workshop:** EMNLP
+
+### [Sense-specific Historical Word Usage Generation.](https://doi.org/10.1162/TACL_A_00761)
 - **Year:** 2025
 - **Authors:** **Pierluigi Cassotti**, Nina Tahmasebi
 - **Journal:** Trans. Assoc. Comput. Linguistics
@@ -34,50 +34,35 @@ permalink: /publications/
 - **Authors:** **Pierluigi Cassotti**, Nina Tahmasebi
 - **Conference/Workshop:** CLiC-it
 
-### [Towards Language-Agnostic STIPA: Universal Phonetic Transcription to Support Language Documentation at Scale.](https://doi.org/10.18653/v1/2025.emnlp-main.1600)
-- **Year:** 2025
-- **Authors:** Jacob Lee Suchardt, Hana El-Shazli, **Pierluigi Cassotti**
-- **Conference/Workshop:** EMNLP
-
-### [Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types.](https://doi.org/10.18653/v1/2024.acl-long.249)
+### [Using Synchronic Definitions and Semantic Relations to Classify Semantic Change Types.](https://doi.org/10.18653/V1/2024.ACL-LONG.249)
 - **Year:** 2024
 - **Authors:** **Pierluigi Cassotti**, Stefano De Pascale, Nina Tahmasebi
-- **Conference/Workshop:** ACL
+- **Conference/Workshop:** ACL (1)
 
-### [Analyzing Semantic Change through Lexical Replacements.](https://doi.org/10.18653/v1/2024.acl-long.246)
+### [TRoTR: A Framework for Evaluating the Re-contextualization of Text Reuse.](https://doi.org/10.18653/V1/2024.EMNLP-MAIN.774)
 - **Year:** 2024
-- **Authors:** Francesco Periti, **Pierluigi Cassotti**, Haim Dubossarsky, Nina Tahmasebi
-- **Conference/Workshop:** ACL
+- **Authors:** Francesco Periti, **Pierluigi Cassotti**, Stefano Montanelli, Nina Tahmasebi, Dominik Schlechtweg
+- **Conference/Workshop:** EMNLP
+
+### [More DWUGs: Extending and Evaluating Word Usage Graph Datasets in Multiple Languages.](https://doi.org/10.18653/V1/2024.EMNLP-MAIN.796)
+- **Year:** 2024
+- **Authors:** Dominik Schlechtweg, **Pierluigi Cassotti**, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi
+- **Conference/Workshop:** EMNLP
 
 ### [DWUGs-IT: Extending and Standardizing Lexical Semantic Change Detection for Italian.](https://ceur-ws.org/Vol-3878/22_main_long.pdf)
 - **Year:** 2024
 - **Authors:** **Pierluigi Cassotti**, Pierpaolo Basile, Nina Tahmasebi
 - **Conference/Workshop:** CLiC-it
 
-### [TRoTR: A Framework for Evaluating the Re-contextualization of Text Reuse.](https://doi.org/10.18653/v1/2024.emnlp-main.774)
+### [Analyzing Semantic Change through Lexical Replacements.](https://doi.org/10.18653/V1/2024.ACL-LONG.246)
 - **Year:** 2024
-- **Authors:** Francesco Periti, **Pierluigi Cassotti**, Stefano Montanelli, Nina Tahmasebi, Dominik Schlechtweg
-- **Conference/Workshop:** EMNLP
+- **Authors:** Francesco Periti, **Pierluigi Cassotti**, Haim Dubossarsky, Nina Tahmasebi
+- **Conference/Workshop:** ACL (1)
 
-### [More DWUGs: Extending and Evaluating Word Usage Graph Datasets in Multiple Languages.](https://doi.org/10.18653/v1/2024.emnlp-main.796)
-- **Year:** 2024
-- **Authors:** Dominik Schlechtweg, **Pierluigi Cassotti**, Bill Noble, David Alfter, Sabine Schulte im Walde, Nina Tahmasebi
-- **Conference/Workshop:** EMNLP
-
-### [Proceedings of the 5th Workshop on Computational Approaches to Historical Language Change, LChange@ACL 2024, Bangkok, Thailand, August 15, 2024](https://aclanthology.org/volumes/2024.lchange-1/)
-- **Year:** 2024
-- **Authors:** Nina Tahmasebi, Syrielle Montariol, Andrey Kutuzov, David Alfter, Francesco Periti, **Pierluigi Cassotti**, Netta Huebscher
-
-
-### [XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE.](https://doi.org/10.18653/v1/2023.acl-short.135)
+### [XL-LEXEME: WiC Pretrained Model for Cross-Lingual LEXical sEMantic changE.](https://doi.org/10.18653/V1/2023.ACL-SHORT.135)
 - **Year:** 2023
 - **Authors:** **Pierluigi Cassotti**, Lucia Siciliani, Marco de Gemmis, Giovanni Semeraro, Pierpaolo Basile
-- **Conference/Workshop:** ACL
-
-### [On the Impact of Language Adaptation for Large Language Models: A Case Study for the Italian Language Using Only Open Resources.](https://ceur-ws.org/Vol-3596/short3.pdf)
-- **Year:** 2023
-- **Authors:** Pierpaolo Basile, **Pierluigi Cassotti**, Marco Polignano, Lucia Siciliani, Giovanni Semeraro
-- **Conference/Workshop:** CLiC-it
+- **Conference/Workshop:** ACL (2)
 
 ### [WiC-ITA at EVALITA2023: Overview of the EVALITA2023 Word-in-Context for ITAlian Task.](https://ceur-ws.org/Vol-3473/paper46.pdf)
 - **Year:** 2023
@@ -89,65 +74,65 @@ permalink: /publications/
 - **Authors:** Barbara McGillivray, **Pierluigi Cassotti**, Pierpaolo Basile, Davide Di Pierro 0001, Stefano Ferilli
 - **Conference/Workshop:** IRCDL
 
+### [On the Impact of Language Adaptation for Large Language Models: A Case Study for the Italian Language Using Only Open Resources.](https://ceur-ws.org/Vol-3596/short3.pdf)
+- **Year:** 2023
+- **Authors:** Pierpaolo Basile, **Pierluigi Cassotti**, Marco Polignano, Lucia Siciliani, Giovanni Semeraro
+- **Conference/Workshop:** CLiC-it
+
 ### [Graph Databases for Diachronic Language Data Modelling.](https://aclanthology.org/2023.ldk-1.8)
 - **Year:** 2023
 - **Authors:** Barbara McGillivray, **Pierluigi Cassotti**, Davide Di Pierro 0001, Paola Marongiu, Anas Fahad Khan, Stefano Ferilli, Pierpaolo Basile
 - **Conference/Workshop:** LDK
-
-### [Proceedings of the 4th Workshop on Computational Approaches to Historical Language Change, LChange@EMNLP 2023, Singapore, December 6, 2023](https://aclanthology.org/volumes/2023.lchange-1/)
-- **Year:** 2023
-- **Authors:** Nina Tahmasebi, Syrielle Montariol, Haim Dubossarsky, Andrey Kutuzov, Simon Hengchen, David Alfter, Francesco Periti, **Pierluigi Cassotti**
-
 
 ### [A New Time-sensitive Model of Linguistic Knowledge for Graph Databases.](https://ceur-ws.org/Vol-3286/08_paper.pdf)
 - **Year:** 2022
 - **Authors:** Pierpaolo Basile, **Pierluigi Cassotti**, Stefano Ferilli, Barbara McGillivray
 - **Conference/Workshop:** AI4CH@AI*IA
 
-### [The Corpora They Are a-Changing: a Case Study in Italian Newspapers.](https://doi.org/10.18653/v1/2021.lchange-1.3)
+### [The Corpora They Are a-Changing: a Case Study in Italian Newspapers.](https://doi.org/10.18653/V1/2021.LCHANGE-1.3)
 - **Year:** 2021
 - **Authors:** Pierpaolo Basile, Annalina Caputo, Tommaso Caselli, **Pierluigi Cassotti**, Rossella Varvara
 - **Conference/Workshop:** LChange@ACL-IJCNLP
-
-### [Emerging Trends in Gender-Specific Occupational Titles in Italian Newspapers.](https://ceur-ws.org/Vol-3033/paper52.pdf)
-- **Year:** 2021
-- **Authors:** **Pierluigi Cassotti**, Andrea Iovine, Pierpaolo Basile, Marco de Gemmis, Giovanni Semeraro
-- **Conference/Workshop:** CLiC-it
-
-### [Extracting Relations from Italian Wikipedia using Self-Training.](https://ceur-ws.org/Vol-3033/paper28.pdf)
-- **Year:** 2021
-- **Authors:** Lucia Siciliani, **Pierluigi Cassotti**, Pierpaolo Basile, Marco de Gemmis, Pasquale Lops, Giovanni Semeraro
-- **Conference/Workshop:** CLiC-it
 
 ### [Extracting Relations from Italian Wikipedia using Unsupervised Information Extraction.](https://ceur-ws.org/Vol-2947/paper2.pdf)
 - **Year:** 2021
 - **Authors:** **Pierluigi Cassotti**, Lucia Siciliani, Pierpaolo Basile, Marco de Gemmis, Pasquale Lops
 - **Conference/Workshop:** IIR
 
-### [A Comparative Study of Approaches for the Diachronic Analysis of the Italian Language.](https://ceur-ws.org/Vol-2735/paper40.pdf)
-- **Year:** 2020
-- **Authors:** **Pierluigi Cassotti**, Pierpaolo Basile, Marco de Gemmis, Giovanni Semeraro
-- **Conference/Workshop:** NL4AI@AI*IA
-
-### [A Diachronic Italian Corpus based on "L'Unità".](https://ceur-ws.org/Vol-2769/paper_44.pdf)
-- **Year:** 2020
-- **Authors:** Pierpaolo Basile, Annalina Caputo, Tommaso Caselli, **Pierluigi Cassotti**, Rossella Varvara
+### [Extracting Relations from Italian Wikipedia using Self-Training.](https://ceur-ws.org/Vol-3033/paper28.pdf)
+- **Year:** 2021
+- **Authors:** Lucia Siciliani, **Pierluigi Cassotti**, Pierpaolo Basile, Marco de Gemmis, Pasquale Lops, Giovanni Semeraro
 - **Conference/Workshop:** CLiC-it
 
-### [Analysis of Lexical Semantic Changes in Corpora with the Diachronic Engine.](https://ceur-ws.org/Vol-2769/paper_71.pdf)
-- **Year:** 2020
-- **Authors:** **Pierluigi Cassotti**, Pierpaolo Basile, Marco de Gemmis, Giovanni Semeraro
+### [Emerging Trends in Gender-Specific Occupational Titles in Italian Newspapers.](https://ceur-ws.org/Vol-3033/paper52.pdf)
+- **Year:** 2021
+- **Authors:** **Pierluigi Cassotti**, Andrea Iovine, Pierpaolo Basile, Marco de Gemmis, Giovanni Semeraro
 - **Conference/Workshop:** CLiC-it
+
+### [GM-CTSC at SemEval-2020 Task 1: Gaussian Mixtures Cross Temporal Similarity Clustering.](https://doi.org/10.18653/V1/2020.SEMEVAL-1.7)
+- **Year:** 2020
+- **Authors:** **Pierluigi Cassotti**, Annalina Caputo, Marco Polignano, Pierpaolo Basile
+- **Conference/Workshop:** SemEval@COLING
 
 ### [DIACR-Ita @ EVALITA2020: Overview of the EVALITA2020 Diachronic Lexical Semantics (DIACR-Ita) Task.](https://ceur-ws.org/Vol-2765/paper158.pdf)
 - **Year:** 2020
 - **Authors:** Pierpaolo Basile, Annalina Caputo, Tommaso Caselli, **Pierluigi Cassotti**, Rossella Varvara
 - **Conference/Workshop:** EVALITA
 
-### [GM-CTSC at SemEval-2020 Task 1: Gaussian Mixtures Cross Temporal Similarity Clustering.](https://doi.org/10.18653/v1/2020.semeval-1.7)
+### [Analysis of Lexical Semantic Changes in Corpora with the Diachronic Engine.](https://ceur-ws.org/Vol-2769/paper_71.pdf)
 - **Year:** 2020
-- **Authors:** **Pierluigi Cassotti**, Annalina Caputo, Marco Polignano, Pierpaolo Basile
-- **Conference/Workshop:** SemEval@COLING
+- **Authors:** **Pierluigi Cassotti**, Pierpaolo Basile, Marco de Gemmis, Giovanni Semeraro
+- **Conference/Workshop:** CLiC-it
+
+### [A Diachronic Italian Corpus based on "L'Unità".](https://ceur-ws.org/Vol-2769/paper_44.pdf)
+- **Year:** 2020
+- **Authors:** Pierpaolo Basile, Annalina Caputo, Tommaso Caselli, **Pierluigi Cassotti**, Rossella Varvara
+- **Conference/Workshop:** CLiC-it
+
+### [A Comparative Study of Approaches for the Diachronic Analysis of the Italian Language.](https://ceur-ws.org/Vol-2735/paper40.pdf)
+- **Year:** 2020
+- **Authors:** **Pierluigi Cassotti**, Pierpaolo Basile, Marco de Gemmis, Giovanni Semeraro
+- **Conference/Workshop:** NL4AI@AI*IA
 
 ### [Bi-directional LSTM-CNNs-CRF for Italian Sequence Labeling.](https://ceur-ws.org/Vol-2006/paper047.pdf)
 - **Year:** 2017
