@@ -23,7 +23,6 @@ email: pierluigi.cassotti[at]gu.se
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: p_cassotti
 github_username: pierluigic
 
 # Build settings
